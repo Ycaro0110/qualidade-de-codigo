@@ -1,4 +1,4 @@
-# Exercício – Qualidade de Código (Java)
+# Exercício – Qualidade de Código
 
 Ycaro entriel marques de oliveira
 
